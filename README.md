@@ -50,6 +50,7 @@
 | [SurferSEO](https://surferseo.com) | AI-powered SEO optimization | $89/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Buffer AI](https://buffer.com/ai) | AI social media management | Free / $6/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Opus Clip](https://opus.pro) | AI short-form video repurposing | Free / $19/mo | [Review 鈫抅(https://aisolotools.com) |
+| [Smart Agent](https://github.com/Smart75850/smart-agent) | 7-platform social media scraper + AI viral analysis | Free / **¥499 Pro** | [Review 鈫抅(https://aisolotools.com) |
 
 ---
 
@@ -143,3 +144,4 @@ Found a great AI tool not on this list?
 ---
 
 > *One person + AI = one company. This list proves it.*
+
