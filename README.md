@@ -102,6 +102,7 @@
 | [How I Built an AI Tool in 2 Days](https://aisolotools.com) | Building FlirtCheck from scratch | Blog |
 | [My One-Person Business Stack](https://aisolotools.com) | All tools I use daily | Blog |
 | [AI Coding for Non-Programmers](https://aisolotools.com) | Getting started with AI coding | Tutorial |
+| [One Person Company](https://onepersoncompany.com) | 317 skill guides, an SEO playbook & AI tool comparisons for one-person businesses | Guides |
 
 ---
 
