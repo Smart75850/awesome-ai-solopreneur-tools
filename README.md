@@ -34,6 +34,7 @@
 | [v0](https://v0.dev) | Vercel's AI UI builder | Free / $20/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Replit](https://replit.com) | Browser-based IDE with AI agent | Free / $25/mo | [Review 鈫抅(https://aisolotools.com) |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer | $10/mo | [Review 鈫抅(https://aisolotools.com) |
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile regression testing | Free package; provider costs vary | [Community Pick] |
 | [Softr](https://softr.io) | No-code app builder from Airtable/Google Sheets | Free / $49/mo | [Review 鈫抅(https://aisolotools.com) |
 
 ---
@@ -144,4 +145,3 @@ Found a great AI tool not on this list?
 ---
 
 > *One person + AI = one company. This list proves it.*
-
