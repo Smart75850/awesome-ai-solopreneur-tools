@@ -77,6 +77,7 @@
 | [n8n](https://n8n.io) | Open-source workflow automation | Free / $20/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Zapier](https://zapier.com) | Connect apps and automate tasks | Free / $19.99/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Relevance AI](https://relevanceai.com) | AI agents for business automation | Free / $19/mo | [Review 鈫抅(https://aisolotools.com) |
+| [Hermes](https://www.buildwithhermes.com) | White-label AI voice agents that answer and place calls, with CRM and campaigns built in | From $149/mo | `[Community Pick]` |
 
 ---
 
