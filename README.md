@@ -51,6 +51,7 @@
 | [Buffer AI](https://buffer.com/ai) | AI social media management | Free / $6/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Opus Clip](https://opus.pro) | AI short-form video repurposing | Free / $19/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Smart Agent](https://github.com/Smart75850/smart-agent) | 7-platform social media scraper + AI viral analysis | Free / **¥499 Pro** | [Review 鈫抅(https://aisolotools.com) |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines. | MIT; source install; optional paid generation | [Community Pick] |
 
 ---
 
