@@ -77,6 +77,7 @@
 | [n8n](https://n8n.io) | Open-source workflow automation | Free / $20/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Zapier](https://zapier.com) | Connect apps and automate tasks | Free / $19.99/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Relevance AI](https://relevanceai.com) | AI agents for business automation | Free / $19/mo | [Review 鈫抅(https://aisolotools.com) |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. | MIT; model-provider costs may apply | [Community Pick] |
 
 ---
 
