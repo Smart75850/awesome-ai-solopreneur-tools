@@ -35,6 +35,7 @@
 | [Replit](https://replit.com) | Browser-based IDE with AI agent | Free / $25/mo | [Review 鈫抅(https://aisolotools.com) |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer | $10/mo | [Review 鈫抅(https://aisolotools.com) |
 | [Softr](https://softr.io) | No-code app builder from Airtable/Google Sheets | Free / $49/mo | [Review 鈫抅(https://aisolotools.com) |
+| [AppWizzy](https://appwizzy.com/) | Build business web apps from prompts with a dedicated development VM and Git-based editing | Free (personal use) / Pro $20/mo + usage and template fees | [Community Pick] |
 
 ---
 
